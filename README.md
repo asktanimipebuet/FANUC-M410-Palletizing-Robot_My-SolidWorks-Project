@@ -1,2 +1,2 @@
 # FANUC-M410-Palletizing-Robot_My-SolidWorks-Project
-This is my SolidWorks project. I have designed the parts of FANUC M410 Palletizing Robot and assembled them. There is also the rendered image and animated video of my project.  It was done under the course IPE 204 which I completed as a sophomore Industrial and production Engineering undergrad of Bangladesh University of Engineering and Technology.
+This is my SolidWorks project. I have designed the parts of FANUC M410 Palletizing Robot and assembled them. There is also the rendered image and animated video of my project.  It was done under the course IPE 204 which I completed as a sophomore Industrial and Production Engineering undergrad of Bangladesh University of Engineering and Technology.
